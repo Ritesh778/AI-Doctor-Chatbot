@@ -84,7 +84,7 @@ This chatbot is intended for educational purposes only and should **not** be use
 ## 👤 Author
 
 **Ritesh Janga**  
-Role: Training & Deployment Specialist  
+Role: Training & Deployment   
 - Fine-tuned the model using LoRA  
 - Evaluated chatbot output quality  
 - Built the full inference and UI pipeline
