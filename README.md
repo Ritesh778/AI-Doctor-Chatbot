@@ -1,5 +1,6 @@
 # 🤖🩺 AI Doctor Chatbot
  
+![Picture1](https://github.com/user-attachments/assets/1f508815-1438-41da-9a98-3775e7d08675)
 
 This is an interactive, fine-tuned medical chatbot built using a LoRA-adapted large language model (LLM) and deployed with Streamlit. It provides informative responses to medical questions and demonstrates efficient training on resource-constrained environments.
 
